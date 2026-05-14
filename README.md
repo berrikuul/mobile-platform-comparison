@@ -1,19 +1,30 @@
-# 📱 Android vs iOS - Сравнение мобильных платформ
+# Android iOS Comparison
 
-<div align="center">
+Небольшое веб-приложение для сравнения мобильных платформ Android и iOS.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+## Описание
 
+Проект представляет собой адаптивный веб-интерфейс, демонстрирующий сравнение Android и iOS по различным характеристикам и особенностям.
 
-</div>
+Основная цель проекта — практика создания современных интерфейсов с использованием HTML, CSS и JavaScript.
 
+## Возможности
 
-## ✨ Особенности
+- Адаптивный интерфейс
+- Интерактивные элементы
+- Анимации и плавные переходы
+- Поддержка мобильных устройств
+- Современная структура страницы
 
-- 🎨 **Современный дизайн** - Чистый и привлекательный интерфейс
-- 📱 **Полная адаптивность** - Оптимальное отображение на всех устройствах
-- ⚡ **Интерактивные элементы** - Анимации и плавные переходы
+## Используемые технологии
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Запуск проекта
+
+Клонирование репозитория:
+
+```bash
+git clone https://github.com/berrikull/android-ios-comparison.git
